@@ -1,1 +1,21 @@
-<mxfile host="app.diagrams.net" modified="2023-03-11T09:55:04.820Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" version="21.0.6" etag="lH94maPepeNJj6i2Thex" type="github"><diagram name="第 1 页" id="BzTuvWa_ZvQHszLnN2Nb">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-11T10:02:57.597Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="xM__yysqmfyDN6ZLEaqR" version="21.0.6" type="github">
+  <diagram name="第 1 页" id="BzTuvWa_ZvQHszLnN2Nb">
+    <mxGraphModel dx="880" dy="439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <object label="" id="0">
+          <mxCell />
+        </object>
+        <mxCell id="1" parent="0" />
+        <mxCell id="q3qIJFRx9J1MilGCVbeI-1" value="虚拟主播" style="rounded=0;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="90" y="150" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q3qIJFRx9J1MilGCVbeI-2" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="160" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q3qIJFRx9J1MilGCVbeI-3" value="hhh&amp;nbsp;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
